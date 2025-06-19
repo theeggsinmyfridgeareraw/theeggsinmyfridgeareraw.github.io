@@ -1,6 +1,6 @@
 // Costs Dark Matter
 function getDarkOrbGeneratorCost() {
-    return 1 + 3 * gameData.dark_matter_shop.dark_orb_generator
+    return 0 + 0 * gameData.dark_matter_shop.dark_orb_generator
 }
 
 function canBuyDarkOrbGenerator() {

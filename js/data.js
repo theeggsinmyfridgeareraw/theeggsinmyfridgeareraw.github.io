@@ -457,11 +457,11 @@ const requirementsBaseData = {
 
     // Darkness
     "Dark Prince": new DarkMatterRequirement([getQuerySelector("Dark Prince")], [{ requirement: 1 }]),
-    "Dark Ruler": new DarkMatterRequirement([getQuerySelector("Dark Ruler")], [{ requirement: 1 }]),
-    "Immortal Ruler": new DarkMatterRequirement([getQuerySelector("Immortal Ruler")], [{ requirement: 2 }]),
-    "Dark Magician": new DarkMatterRequirement([getQuerySelector("Dark Magician")], [{ requirement: 1 }]),
-    "Universal Ruler": new DarkMatterRequirement([getQuerySelector("Universal Ruler")], [{ requirement: 1 }]),
-    "Blinded By Darkness": new DarkMatterRequirement([getQuerySelector("Blinded By Darkness")], [{ requirement: 1 }]),
+    "Dark Ruler": new DarkMatterRequirement([getQuerySelector("Dark Ruler")], [{ requirement: 2 }]),
+    "Immortal Ruler": new DarkMatterRequirement([getQuerySelector("Immortal Ruler")], [{ requirement: 6 }]),
+    "Dark Magician": new DarkMatterRequirement([getQuerySelector("Dark Magician")], [{ requirement: 7 }]),
+    "Universal Ruler": new DarkMatterRequirement([getQuerySelector("Universal Ruler")], [{ requirement: 8 }]),
+    "Blinded By Darkness": new DarkMatterRequirement([getQuerySelector("Blinded By Darkness")], [{ requirement: 9 }]),
 
     // Properties
     "Homeless": new CoinRequirement([getQuerySelector("Homeless")], [{ requirement: 0 }]),
